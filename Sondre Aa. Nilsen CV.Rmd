@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
     # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: true
+    self_contained: false
 ---
 
 
@@ -31,9 +31,9 @@ Skills {#skills}
 
 - Epidemiological research
 
-- Treatment of anxiety disorders
-
 - Skilled in statistical software such as R, STATA and SPSS
+
+- Treatment of anxiety disorders
 
 
 Disclaimer {#disclaimer}
@@ -74,7 +74,7 @@ N/A
 
 Dec. 2017 - Jan. 2012
 
-Dissertation: Family Structure in Norway: Associations to Adolescent Mental Health
+- Dissertation: Family Structure in Norway: Associations to Adolescent Mental Health
 
 ### Spjelkavik Upper Secondary School
 
@@ -193,38 +193,42 @@ Presentations at international conferences {data-icon=chalkboard-teacher}
 
 **Divorce and family structure in Norway – Associations to adolescent mental health.**
 
-[The European Journal of Public Health, 26, Issue suppl_1](https://academic.oup.com/eurpub/article-abstract/26/suppl_1/ckw166.041/2448426)
-
 Vienna, Austria
 
 2016
+
+[The European Journal of Public Health, 26, Issue suppl_1](https://academic.oup.com/eurpub/article-abstract/26/suppl_1/ckw166.041/2448426)
 
 Oral presentation
 
 **Nilsen, S. A.**, Breivik, K., Wold, B., & Bøe, T.
 
 
-### 18th European Conference on Developmental Psychology: Divorce and family structure in Norway: Associations with Adolescent Mental Health.
+### 18th European Conference on Developmental Psychology
 
-N/A
+**Divorce and family structure in Norway: Associations with Adolescent Mental Health.**
 
 Utrecht, The Netherlands
 
 2017
 
-Oral presentation
+- Oral presentation
 
 **Nilsen, S. A.**, Breivik, K., Wold, B., & Bøe, T.
 
 
 
-### Divorce and Adolescent Mental Health: Is it All About the Money?
+### 13th European Public Health Conference  
 
-[The European Journal of Public Health, 28, Issue suppl_4](https://academic.oup.com/eurpub/article/28/suppl_4/cky214.022/5186059)
+**Divorce and Adolescent Mental Health: Is it All About the Money?**
 
 Ljubljana, Slovenia
 
 2018
+
+[The European Journal of Public Health, 28, Issue suppl_4](https://academic.oup.com/eurpub/article/28/suppl_4/cky214.022/5186059)
+
+- Poster presentation
 
 **Nilsen, S.A.,** Breivik, K., Wold, B., Hysing, M., & Bøe, T.
 
