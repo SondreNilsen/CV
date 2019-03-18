@@ -1,0 +1,246 @@
+---
+title: "Curriculum Vitae"
+author: Sondre Aa. Nilsen
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+---
+
+
+Aside
+================================================================================
+
+
+![Sondre Aasen Nilsen](/Users/sni050/Dropbox/My CV/CV/picture.png){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> soni@norceresearch.no
+- <i class="fa fa-safari"></i> [Google Scholar](https://scholar.google.no/citations?user=bat21o8AAAAJ&hl=no&oi=ao)
+- <i class="fa fa-safari"></i> [Research Gate](https://www.researchgate.net/profile/Sondre_Aasen_Nilsen)
+- <i class="fa fa-phone"></i> +4797536523
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Epidemiological research
+
+- Treatment of anxiety disorders
+
+- Skilled in statistical software such as R, STATA and SPSS
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+CV - Sondre Aa. Nilsen {#title}
+--------------------------------------------------------------------------------
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Bergen
+
+Ph.D. Candidate, Department of Psychosocial Science, Faculty of Psychology
+
+Bergen, Norway
+
+Present - Feb. 2017
+
+- PI: Tormod Bøe
+
+
+### University of Bergen
+
+Cand. Psychol
+
+N/A
+
+Dec. 2017 - Jan. 2012
+
+Dissertation: Family Structure in Norway: Associations to Adolescent Mental Health
+
+### Spjelkavik Upper Secondary School
+
+University Admission Certification.
+
+Ålesund, Norway
+
+Jun. 2008 - Aug. 2006
+
+- Completed advanced courses in mathematics, physics and chemistry
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Norwegian Research Centre (NORCE)  
+
+Ph.D Candidate   
+University of Bergen, Department of Psychosocial Science, Faculty of Psychology
+
+Bergen, Norway 
+
+Present - Feb. 2017
+
+- 3 year poistion funded by Extrastiftelsen  
+- Grant number: 2017/FO149543
+
+### Kronstad DPS, OCD-team  
+Clinical psychologist
+
+Bergen, Norway
+
+Feb. 2018 - Feb. 2017
+
+- 20% part time position  
+- Work related to the national OCD-study on the Bergen 4-day treatment  
+
+
+
+### Research Assistant 
+
+Uni Research (currently NORCE)
+
+Bergen, Norway
+
+Des. 2017 - Jan. 2013 
+
+- 20% position
+- Responsible for managing the data base for the Bergen Child Study
+
+
+### Teaching Assistant
+
+Faculty of Psychology, University of Bergen
+
+Bergen, Norway
+
+Des. 2017 - Jan. 2013 
+
+- Exam preparation workshops for first-year students in psychology  
+- Taught subjects PSYK 100, PSYK 101, PSYK 102 & EXFAC
+
+
+
+
+Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### How changing admission practices affect sociodemographics, satisfaction, personality, gender, and dropout of students in the professional psychologist study program in Norway
+
+[Scandinavian Psychologist, 5](https://psykologisk.no/sp/2018/12/e14/)
+
+N/A
+
+2018
+
+Nordmo, M., Hagen, J. S., Pedersen, V. B., Høyheim, T., Østby, A. S., & **Nilsen, S. A.**
+
+
+### Symptoms Associated With Attention Deficit/Hyperactivity Disorder and Autism Spectrum Disorders in School-Aged Children Prenatally Exposed to Substances
+
+[Substance Abuce, Research and Treatment, 12](https://journals.sagepub.com/doi/abs/10.1177/1178221818765773) 
+
+N/A
+
+2018
+
+Sandtorv, L. B,Fevang, S. K. E, **Nilsen, S. A.,** Bøe, T., Gjestad, R., Haugland S., & Elgen, B. E.
+
+### Divorce and Family Structure in Norway: Associations with Adolescent Mental Health
+
+[Journal of Divorce & Remarriage 59 (3), 175-194](https://www.tandfonline.com/doi/abs/10.1080/10502556.2017.1402655)
+
+N/A
+
+2017
+
+**Nilsen, S. A.**, Breivik, K., Wold, B., & Bøe, T.
+
+### Mental health in School-aged Children Prenatally Exposed to Alcohol and Other Substances
+
+[Substance Abuce, Research and Treatment, 11](https://journals.sagepub.com/doi/abs/10.1177/1178221817718160)
+
+N/A
+
+2017
+
+Sandtorv, L. Hysing, M., Rognild, M.,  **Nilsen, S. A.,** & Elgen, B. E.
+
+
+
+
+Presentations at international conferences {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### 11th European Public Health Conference  
+
+**Divorce and family structure in Norway – Associations to adolescent mental health.**
+
+[The European Journal of Public Health, 26, Issue suppl_1](https://academic.oup.com/eurpub/article-abstract/26/suppl_1/ckw166.041/2448426)
+
+Vienna, Austria
+
+2016
+
+Oral presentation
+
+**Nilsen, S. A.**, Breivik, K., Wold, B., & Bøe, T.
+
+
+### 18th European Conference on Developmental Psychology: Divorce and family structure in Norway: Associations with Adolescent Mental Health.
+
+N/A
+
+Utrecht, The Netherlands
+
+2017
+
+Oral presentation
+
+**Nilsen, S. A.**, Breivik, K., Wold, B., & Bøe, T.
+
+
+
+### Divorce and Adolescent Mental Health: Is it All About the Money?
+
+[The European Journal of Public Health, 28, Issue suppl_4](https://academic.oup.com/eurpub/article/28/suppl_4/cky214.022/5186059)
+
+Ljubljana, Slovenia
+
+2018
+
+**Nilsen, S.A.,** Breivik, K., Wold, B., Hysing, M., & Bøe, T.
+
+
+Honors & Awards {data-icon=trophy}
+--------------------------------------------------------------------------------
+
+### Scholarships 
+
+Awarded summer scholarships in 2014, 2015, 2016 at Uni Reserch Health (currently NORCE)
+Bergen, Norway
+
+N/A
+
+2016 - 2014
+
+
+
+
