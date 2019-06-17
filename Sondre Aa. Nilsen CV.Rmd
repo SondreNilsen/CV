@@ -3,9 +3,18 @@ title: "Curriculum Vitae"
 author: Sondre Aa. Nilsen
 date: "`r Sys.Date()`"
 output:
-  pagedown::html_resume:
+    pagedown::html_resume:
+    css: ["my_custom.css", "resume"]
     # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: false
+    self_contained: true
+  
+    
+    #pagedown::html_resume:
+    #css: ["my_custom.css"]
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    
+#pagedown::chrome_print("Sondre Aa. Nilsen CV.Rmd") - To automatic convert to pdf
+#xaringan::inf_mr("Sondre Aa. Nilsen CV.Rmd") # To view in viewer
 ---
 
 
@@ -31,15 +40,17 @@ Skills {#skills}
 
 - Epidemiological research
 
+- Adolescent mental health
+
 - Skilled in statistical software such as R, STATA and SPSS
 
 - Treatment of anxiety disorders
 
+- Certified to deliver the Bergen 4-day treatment for OCD
+
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
-
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
 Last updated on `r Sys.Date()`.
 
@@ -63,7 +74,9 @@ Bergen, Norway
 
 Present - Feb. 2017
 
-- PI: Tormod Bøe
+- Finished all obligatory Ph.D. courses and training (30 ECT's)
+- Ph.D. Thesis will be submitted October 2019
+- PI: Tormod Bøe, co-supervisors: Kyrre Breivik, Bente Wold
 
 
 ### University of Bergen
@@ -74,7 +87,8 @@ N/A
 
 Dec. 2017 - Jan. 2012
 
-- Dissertation: Family Structure in Norway: Associations to Adolescent Mental Health
+- Dissertation: Family Structure in Norway: Associations to Adolescent Mental Health (Grade: A)
+- Authorised clinical psychologist
 
 ### Spjelkavik Upper Secondary School
 
@@ -89,9 +103,9 @@ Jun. 2008 - Aug. 2006
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Norwegian Research Centre (NORCE)  
+### Ph.D Candidate  
 
-Ph.D Candidate   
+Norwegian Research Centre (NORCE)  
 University of Bergen, Department of Psychosocial Science, Faculty of Psychology
 
 Bergen, Norway 
@@ -101,15 +115,22 @@ Present - Feb. 2017
 - 3 year poistion funded by Extrastiftelsen  
 - Grant number: 2017/FO149543
 
-### Kronstad DPS, OCD-team  
-Clinical psychologist
+### External examiner
+
+University of Bergen,
+Bachelor of Dental hygiene
+
+Bergen, Norway
+
+### Clinical psychologist
+Kronstad DPS, OCD-team  
 
 Bergen, Norway
 
 Feb. 2018 - Feb. 2017
 
-- 20% part time position  
-- Work related to the national OCD-study on the Bergen 4-day treatment  
+- 20% position  
+- Assessment of patients before and after participating in the Bergen 4-day treatment  
 
 
 
@@ -119,10 +140,16 @@ Uni Research (currently NORCE)
 
 Bergen, Norway
 
-Des. 2017 - Jan. 2013 
+Feb. 2017 - Jan. 2013 
 
-- 20% position
-- Responsible for managing the data base for the Bergen Child Study
+- 20% position (80% August 2016 - February 2017)
+- Main tasks: managing and developing the data base for the Bergen Child Study (BCS)
+
+
+::: aside
+See [here](http://uni.no/en/uni-health/rkbu-vest/the-bergen-child-study/) for more information about the BCS 
+:::
+
 
 
 ### Teaching Assistant
@@ -131,16 +158,18 @@ Faculty of Psychology, University of Bergen
 
 Bergen, Norway
 
-Des. 2017 - Jan. 2013 
+2017 - 2013 
 
-- Exam preparation workshops for first-year students in psychology  
-- Taught subjects PSYK 100, PSYK 101, PSYK 102 & EXFAC
+- Exam preparation workshops/seminars for first-year students in psychology (subjects PSYK 100, PSYK 101, PSYK 102 & EXFAC) 
+- Taught 2-4 seminars each semester; one seminar equals 6-9 meetings á 2 hours
 
 
 
 
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
+
+
 
 ### How changing admission practices affect sociodemographics, satisfaction, personality, gender, and dropout of students in the professional psychologist study program in Norway
 
@@ -186,12 +215,49 @@ Sandtorv, L. Hysing, M., Rognild, M.,  **Nilsen, S. A.,** & Elgen, B. E.
 
 
 
+Manuscripts submitted {data-icon=file}
+--------------------------------------------------------------------------------
+::: aside
+Manuscripts that are currently to assessment at international peer-reviewed journals
+:::
+
+
+### Divorce and Adolescent Academic Achievement: The Moderating Role of Parental Education
+Journal of Child and Family Studies (**in review**)
+
+N/A
+
+2019
+
+**Nilsen, S. A.**, Breivik, K., Wold, B., Askeland, K.G., Sivertsen, B., Hysing, M., & Bøe, T.
+
+
+### Family Structure, Siblings, and Health Complaints among Adolescents: Results From a Large Population-based Study
+Journal of Adolescent Health (**to assessment**)
+
+N/A
+
+2019
+
+**Nilsen, S. A.**, Bøe, T., Heradstveit, O.,Breivik, K., Sunde, E. V., Stormark, K. M., & Hysing, M.
+
+
+### Parental satisfaction with health and educational services visited by their adolescent offspring: The role of socioeconomic status and adolescent mental health
+BMC Public Health (**to assessment**)
+
+N/A
+
+2019
+
+**Nilsen, S. A.**, Hysing, M., Sivertsen, B., Heradstveit, O., Bøe, T., Stormark, K. M., & Askeland, K.G.
+
+
 Presentations at international conferences {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
 ### 11th European Public Health Conference  
 
-**Divorce and family structure in Norway – Associations to adolescent mental health.**
+Divorce and family structure in Norway – Associations to adolescent mental health.
 
 Vienna, Austria
 
@@ -206,7 +272,7 @@ Vienna, Austria
 
 ### 18th European Conference on Developmental Psychology
 
-**Divorce and family structure in Norway: Associations with Adolescent Mental Health.**
+Divorce and family structure in Norway: Associations with Adolescent Mental Health
 
 Utrecht, The Netherlands
 
@@ -220,7 +286,7 @@ Utrecht, The Netherlands
 
 ### 13th European Public Health Conference  
 
-**Divorce and Adolescent Mental Health: Is it All About the Money?**
+Divorce and Adolescent Mental Health: Is it All About the Money?
 
 Ljubljana, Slovenia
 
@@ -231,6 +297,47 @@ Ljubljana, Slovenia
 - Poster presentation
 
 **Nilsen, S.A.,** Breivik, K., Wold, B., Hysing, M., & Bøe, T.
+
+
+
+Supervision experience {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Master's Thesis (UiB)
+
+N/A
+
+N/A
+
+2019 - 2018
+
+Loro, D. P. J. "Mental health among youth in the Child Welfare Services" Student: Dora Poni Joseph Loro
+
+### Seminar papers (emneoppgaver) Professional studies in psychology (UiB)
+
+N/A
+
+N/A
+
+2017
+
+Røste, C. A., Diep, M. L., & Drønen, K. "Hvilke faktorer kan beskytte et barn mot potensielle konsekvenser av en skilsmisse?".
+
+Aardal, A., Falk, M., & Rystad, J. M. "Hvordan påvirker en skilsmisse barns senere relasjonelle ferdigheter?"
+
+
+
+
+### Summer scholarship 
+
+N/A
+
+N/A
+
+2018
+
+Sunde, E. "Yours, Mine & Ours: The Associations between Family Structure, Family Complexity and Health Complaints among Adolescents".
+
 
 
 Honors & Awards {data-icon=trophy}
@@ -247,4 +354,4 @@ N/A
 
 
 
-
+ 
