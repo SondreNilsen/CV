@@ -4,9 +4,9 @@ author: Sondre Aa. Nilsen
 date: "`r Sys.Date()`"
 output:
     pagedown::html_resume:
-    css: ["my_custom.css", "resume"]
+    css: ["my_custom.css", "break_after_page", "default"]
     # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: true
+    self_contained: false
   
     
     #pagedown::html_resume:
@@ -16,6 +16,7 @@ output:
 #pagedown::chrome_print("Sondre Aa. Nilsen CV.Rmd") - To automatic convert to pdf
 #xaringan::inf_mr("Sondre Aa. Nilsen CV.Rmd") # To view in viewer
 ---
+
 
 
 Aside
@@ -39,14 +40,10 @@ Skills {#skills}
 --------------------------------------------------------------------------------
 
 - Epidemiological research
-
 - Adolescent mental health
-
-- Skilled in statistical software such as R, STATA and SPSS
-
+- Skilled in statistical software; R, STATA and SPSS
 - Treatment of anxiety disorders
-
-- Certified to deliver the Bergen 4-day treatment for OCD
+- Trained in the Bergen 4-day treatment for OCD
 
 
 Disclaimer {#disclaimer}
@@ -72,10 +69,10 @@ Ph.D. Candidate, Department of Psychosocial Science, Faculty of Psychology
 
 Bergen, Norway
 
-Present - Feb. 2017
+Apr. 2020 - Feb. 2017
 
-- Finished all obligatory Ph.D. courses and training (30 ECT's)
-- Ph.D. Thesis will be submitted October 2019
+- Thesis submitted desember 2019, will be defended 24. April 2020
+- Thesis title: After the Divorce: Academic Achievement, Mental Health, and Health Complaints in Adolescence
 - PI: Tormod Bøe, co-supervisors: Kyrre Breivik, Bente Wold
 
 
@@ -98,47 +95,59 @@ University Admission Certification.
 
 Jun. 2008 - Aug. 2006
 
-- Completed advanced courses in mathematics, physics and chemistry
-
-Professional Experience {data-icon=suitcase}
+Professional Experience {data-icon=suitcase .break-after-me}
 --------------------------------------------------------------------------------
+
+### Senior Researcher (Forsker II)
+
+Norwegian Research Centre (NORCE)
+
+Bergen, Norway
+
+Feb. 2020 - 
+
+- Tenure track position as a senior researcher doing research and teaching on child and adolescent mental health
+
 
 ### Ph.D Candidate  
 
-Norwegian Research Centre (NORCE)  
-University of Bergen, Department of Psychosocial Science, Faculty of Psychology
+Norwegian Research Centre (NORCE)
 
-Bergen, Norway 
+Bergen, Norway
 
-Present - Feb. 2017
+Feb. 2020 - Feb. 2017
 
 - 3 year poistion funded by Extrastiftelsen  
 - Grant number: 2017/FO149543
 
 ### External examiner
 
-University of Bergen,
-Bachelor of Dental hygiene
+University of Bergen (UiB)
+University of Tromsø (UiT)
 
-Bergen, Norway
+N/A
+
+N/A
+
+- Bachelor of Dental hygiene (UiB)
+- Subject: HEL-6318: "Preventative mental health work for children and adolescents" (UiT)
+
 
 ### Clinical psychologist
 Kronstad DPS, OCD-team  
 
-Bergen, Norway
+N/A
 
 Feb. 2018 - Feb. 2017
 
 - 20% position  
-- Assessment of patients before and after participating in the Bergen 4-day treatment  
-
 
 
 ### Research Assistant 
 
 Uni Research (currently NORCE)
 
-Bergen, Norway
+N/A
 
 Feb. 2017 - Jan. 2013 
 
@@ -156,7 +165,7 @@ See [here](http://uni.no/en/uni-health/rkbu-vest/the-bergen-child-study/) for mo
 
 Faculty of Psychology, University of Bergen
 
-Bergen, Norway
+N/A
 
 2017 - 2013 
 
@@ -166,9 +175,18 @@ Bergen, Norway
 
 
 
-Publications {data-icon=file}
+Publications {data-icon=file .break-after-me}
 --------------------------------------------------------------------------------
 
+### Complex Families and Health Complaints among Adolescents: Results From a Large Population-based Cross-sectional Study
+
+[Scandinavian Journal of Public Health](https://doi.org/10.1177/1403494819893903)
+
+N/A
+
+2019
+
+**Nilsen, S. A.**, Bøe, T., Heradstveit, O.,Breivik, K., Sunde, E. V., Stormark, K. M., & Hysing, M.
 
 
 ### How changing admission practices affect sociodemographics, satisfaction, personality, gender, and dropout of students in the professional psychologist study program in Norway
@@ -215,7 +233,7 @@ Sandtorv, L. Hysing, M., Rognild, M.,  **Nilsen, S. A.,** & Elgen, B. E.
 
 
 
-Manuscripts submitted {data-icon=file}
+Manuscripts submitted {data-icon=file .break-after-me}
 --------------------------------------------------------------------------------
 ::: aside
 Manuscripts that are currently to assessment at international peer-reviewed journals
@@ -223,7 +241,7 @@ Manuscripts that are currently to assessment at international peer-reviewed jour
 
 
 ### Divorce and Adolescent Academic Achievement: The Moderating Role of Parental Education
-Journal of Child and Family Studies (**in review**)
+*PlosOne (re-submitted)*
 
 N/A
 
@@ -232,18 +250,9 @@ N/A
 **Nilsen, S. A.**, Breivik, K., Wold, B., Askeland, K.G., Sivertsen, B., Hysing, M., & Bøe, T.
 
 
-### Family Structure, Siblings, and Health Complaints among Adolescents: Results From a Large Population-based Study
-Journal of Adolescent Health (**to assessment**)
-
-N/A
-
-2019
-
-**Nilsen, S. A.**, Bøe, T., Heradstveit, O.,Breivik, K., Sunde, E. V., Stormark, K. M., & Hysing, M.
-
 
 ### Parental satisfaction with health and educational services visited by their adolescent offspring: The role of socioeconomic status and adolescent mental health
-BMC Public Health (**to assessment**)
+*BMC Public Health (submitted)*
 
 N/A
 
@@ -251,8 +260,10 @@ N/A
 
 **Nilsen, S. A.**, Hysing, M., Sivertsen, B., Heradstveit, O., Bøe, T., Stormark, K. M., & Askeland, K.G.
 
+- Bergen Child Study project-paper
 
-Presentations at international conferences {data-icon=chalkboard-teacher}
+
+Presentations at international conferences {data-icon=chalkboard-teacher .break-after-me}
 --------------------------------------------------------------------------------
 
 ### 11th European Public Health Conference  
@@ -280,6 +291,7 @@ Utrecht, The Netherlands
 
 - Oral presentation
 
+
 **Nilsen, S. A.**, Breivik, K., Wold, B., & Bøe, T.
 
 
@@ -300,7 +312,7 @@ Ljubljana, Slovenia
 
 
 
-Supervision experience {data-icon=graduation-cap data-concise=true}
+Supervision experience {data-icon=graduation-cap data-concise=true .break-after-me}
 --------------------------------------------------------------------------------
 
 ### Master's Thesis (UiB)
@@ -319,12 +331,11 @@ N/A
 
 N/A
 
-2017
+2017 - 2018
 
 Røste, C. A., Diep, M. L., & Drønen, K. "Hvilke faktorer kan beskytte et barn mot potensielle konsekvenser av en skilsmisse?".
 
 Aardal, A., Falk, M., & Rystad, J. M. "Hvordan påvirker en skilsmisse barns senere relasjonelle ferdigheter?"
-
 
 
 
@@ -336,11 +347,38 @@ N/A
 
 2018
 
-Sunde, E. "Yours, Mine & Ours: The Associations between Family Structure, Family Complexity and Health Complaints among Adolescents".
+Sunde, E. "Yours, Mine & Ours: Family Complexity and Health Complaints among Adolescents".
 
 
 
-Honors & Awards {data-icon=trophy}
+Dissemination {data-icon=chalkboard-teacher .break-after-me}
+--------------------------------------------------------------------------------
+
+::: aside
+My research has received attention in both national and international press, some of which are listed below.
+:::
+
+### Media
+N/A
+
+N/A
+
+2018
+
+[Aftenposten: "Ungdom med delt bosted etter skilsmisse har like god psykisk helse som barn av ikke-skilte"](https://www.aftenposten.no/norge/i/8wBpnG/Ungdom-med-delt-bosted-etter-skilsmisse-har-like-god-psykisk-helse-som-barn-av-ikke-skilte) 
+
+[NRK P1; Norgesglasset: "Delt bosted er bra for psyken"](https://radio.nrk.no/serie/norgesglasset/DMTA01001118/16-01-2018)
+
+[P4: "Barn som bor hos begge foreldrene sliter ikke mer "](https://www.p4.no/nyheter/barn-som-bor-hos-begge-foreldrene-sliter-ikke-mer/artikkel/723130/)
+
+[L'actualité de la résidence alternée, en France et ailleurs](http://summit4u.org/norvege-adolescents-residence-alternee/) 
+
+[Daily Mail: "Children of divorced parents who live with a.."](http://www.dailymail.co.uk/health/article-5275969/Kids-divorce-live-step-parent-troubled.html)
+
+[Lapsen: "Tutkimustieto tukee vuoroasumista"](https://lapsenmaailma.fi/palstat/tutkittua-tietoa/tutkimustieto-tukee-vuoroasumista/)
+
+
+Honors & Awards {data-icon=trophy .break-after-me}
 --------------------------------------------------------------------------------
 
 ### Scholarships 
